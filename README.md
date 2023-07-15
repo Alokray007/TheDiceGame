@@ -1,2 +1,2 @@
 # TheDiceGame
-When you feel Bored come here and play Dice game and if you Win.
+When you feel Bored come here and play Dice game and see if you Win the game.
